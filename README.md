@@ -29,8 +29,9 @@ This project demonstrates a clean structure for a restaurant website with multip
 
 ## 📂 Project Structure
 Restaurant_Landing_Page/
-├── index.html                  # Main HTML file  
-├── style.css                 # Styling file  
+
+├── index.html     # Main HTML file  
+├── style.css      # Styling file  
 ├── assets/        # Images & media  
 └── README.md
 
